@@ -1,0 +1,10 @@
+// 105 STL ALGORITHMS
+
+    // STL algorithms can make code more expressive 
+        // Rasing level of abstraction
+        // sometimes, it can be spectacular 
+ 
+    // Avoid common mistakes 
+        // off-by-one
+        // empty loops
+        // naive complexity 
